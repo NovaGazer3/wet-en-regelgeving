@@ -220,7 +220,7 @@ celstraf.
 
 ### Artikel 13 - Gedrag tegen overheidsmedewerkers
 
-1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn.
+1. Meldingen naar een overheidsinstantie dienen te allen tijde realistisch en uitgebreid te zijn. Hierbij is het dus niet toegestaan om een valse melding te maken richting de politie of marechaussee.
 2. Roleplay met de ANWB, Brandweer en Ambulance moet uitgebreid en realistisch zijn. Ook dien je mee te werken met de roleplay en mag je de medewerkers niet forceren om voertuigen te repareren of spelers te reviven. De medewerkers zijn te allen tijde leidend in hun roleplay.
 3. Het is niet toegestaan om een melding te maken naar een overheidsinstantie met de intentie om degene die hierop reageert te vermoorden, te ontvoeren of met als doel om deze te gaan overvallen.
 4. Er moeten ten allen tijden vijf overheidsmedewerkers binnen een baan beschikbaar blijven nadat er één ontvoerd is, dus als er 6 agenten aanwezig zijn mag er 1 ontvoerd worden, als er 5 aanwezig zijn mag er geen ontvoerd worden.
@@ -231,6 +231,7 @@ ambulanciers in dienst, hierbij zal er wel een goede roleplay aan vast moeten zi
 run and gun. Tevens mag dit alleen gedaan worden bij eigen vrienden of gangleden en dus niet bij personen welke niks met jou te maken hebben. De ambulance is in deze roleplay nogsteeds leidend omtrent gezondheid van de bewusteloze persoon. Indien persoon dit niet kan overleven, kan de ambulancier er voor kiezen om deze dood te moeten verklaren.
    * Mocht hier toch gezien worden dat er geen roleplay aan verbonden wordt zoals enkel
 een melding maken en de ambulancier snel te laten werken zodat het wapen direct weg kan, of een van de andere eisen verbroken wordt zal er bestraft worden volgens de 5e categorie en bij herhaling volgens de 6e categorie of hoger.
+
 
 ### Artikel 14 - Roleplay & Ledenaantal Criminele Organisaties
 
